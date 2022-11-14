@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+    border-radius: 22px;
+    float: center;
+    margin-left: 500px;
+    bottom: 20px;
+    
+  }
+  .Welcome {
+    font-weight: bold;
+    margin-left: 500px;
+    font-size: 50px;
+   
+  }
+
+  em { 
+    color: purple;
+    font-style: italic;  
+
+  }
+
+  .Intro{
+
+    bottom: 10;
+    margin-left: 100px;
+  }
